@@ -1,1 +1,1 @@
- Java EE notes and assignments
+ Java EE notes and assignments.
